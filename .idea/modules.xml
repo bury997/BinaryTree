@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TwoForkTree.iml" filepath="$PROJECT_DIR$/TwoForkTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree.iml" />
     </modules>
   </component>
 </project>
